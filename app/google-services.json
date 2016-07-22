@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "225571779078",
+    "firebase_url": "https://testandroidnotification-2dace.firebaseio.com",
+    "project_id": "testandroidnotification-2dace",
+    "storage_bucket": "testandroidnotification-2dace.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:225571779078:android:5a26f771710f210c",
+        "android_client_info": {
+          "package_name": "com.ks.poc.testfcm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "225571779078-e1t16vnlu8inkujsobbjm05v41submia.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXPAOAY4Hn7NzSf4yOL-cA3rI4UHFhT7U"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
